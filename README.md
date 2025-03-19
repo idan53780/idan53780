@@ -1,5 +1,6 @@
 
-<img src=BANNER.png alt="GitHub Banner" width="100%"/>
+![banner1](https://github.com/user-attachments/assets/c54c6afd-84dd-4bb8-8ea5-391be62b2ef2)
+
 
 
 <h2 align="center">Hello  👋🏼 i'm idan ,welcome to my profile📜</h2>
