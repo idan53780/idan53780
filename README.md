@@ -32,17 +32,16 @@
 
 ###
 
+ 
+    ![codegif](https://github.com/user-attachments/assets/fbd1c85c-dc6f-4801-a5e6-ed86f6e4d5a0)
 
-
-
-
-
-<div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHQ3M21jcHF6NWNsdWFpdGEyc243YjUydDJpdGE4N214a3cwMDByayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Fox4sRv6aRS9bCggt/giphy.gif"  />
-</div>
 
 ###
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/idan53780/idan53780/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/idan53780/idan53780/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/idan53780/idan53780/output/github-snake.svg" />
+</picture>
 
 ###
 
