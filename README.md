@@ -1,5 +1,8 @@
-###
-<h2 align="center">Hello ! 👋🏼 i'm idan ,welcome to my profile📜</h2>
+
+<img src=BANNER.png alt="GitHub Banner" width="100%"/>
+
+
+<h2 align="center">Hello  👋🏼 i'm idan ,welcome to my profile📜</h2>
 
 ###
 
