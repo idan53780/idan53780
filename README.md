@@ -3,18 +3,19 @@
 
 
 
-<h2 align="center">Hello  👋🏼 i'm idan ,welcome to my profile📜</h2>
+<h1 align="center">Hello  👋🏼 i'm idan ,welcome to my profile📜</h1>
 
 ###
 
-<p align="center">💻Computer science student<br>🎆I am seeking my first professional experience</p>
-
-###
-
+<h3 align="center"> 📖Education:  B.Sc. Computer Science Student, Holon Institute of Technology (HIT) <br> <br> 🎆 I am seeking my first professional experience to apply my skills and contribute to real-world projects. </h3p>
 
 
 ###
+<h2 align="center">______________________________ </h2>
 
+
+###
+<h2 align="center"> 🖥️ Skills </h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -43,7 +44,8 @@
 </picture>
 
 ###
-
+<h2 align="center"> 🌎 Languages: Hebrew (Native), English   (Fluent) </h2p>
+<br><br>
 <div align="center">
   <a href="idan53780@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
