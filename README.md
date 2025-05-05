@@ -34,8 +34,13 @@
 <div align="center">
   <a href="mailto:idan53780@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>&nbsp;
+  </a>  
+  <br>
+    idan53780@gmail.com &nbsp;
+  <br><br>
   <a href="http://www.linkedin.com/in/idan-apoteker" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
+  <br>
+   Idan-Apoteker
 </div>
