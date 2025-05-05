@@ -30,8 +30,9 @@
   </picture>
 </div>
 
-<div align="center">
-  ## 📫 Connect With Me
+
+<h2 > 📫 Connect With Me </h2>  
+  <div align="center">
   <div>
     <a href="mailto:idan53780@gmail.com">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
