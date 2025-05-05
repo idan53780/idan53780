@@ -8,6 +8,34 @@
 - B.Sc. Computer Science Student at Holon Institute of Technology (HIT)
 - 🔍 Seeking my first professional experience to apply my skills and contribute to real-world projects
 - 🌎 Languages: Hebrew (Native), English (Fluent)
+<br>
+
+
+## 🚀 Featured Projects
+
+### 🐍 Snake Game
+A classic Snake game built in C# with a responsive UI, real-time movement, collision detection, and a score tracking system.
+
+🔗 [View Repository](https://github.com/idan53780/SnakeGame)  
+🛠️ Tech Stack: C#, Windows Forms
+
+---
+
+### 🎮 Tetris Game
+A C# implementation of the timeless Tetris game. Features block rotation, collision detection, scoring, and line-clearing logic.
+
+🔗 [View Repository](https://github.com/idan53780/TetrisGame)  
+🛠️ Tech Stack: C#, Windows Forms
+
+---
+
+### 🚢 Titanic - Supervised Learning
+A machine learning pipeline project analyzing the Titanic dataset. Covers data preprocessing, feature engineering, model training, and evaluation.
+
+🔗 [View Repository](https://github.com/idan53780/Titanic-Supervised-Learning)  
+🛠️ Tech Stack: Python, Pandas, Scikit-learn, Jupyter Notebook
+
+<br>
 
 ## 🖥️ Technical Skills
 <div align="center">
