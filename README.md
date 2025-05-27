@@ -13,6 +13,21 @@
 
 ## 🚀 Featured Projects
 
+### 📸 Real-time face and emotion detection (classifier)
+A real-time emotion recognition application using webcam, video, or image input.
+
+[View Repository](https://github.com/idan53780/RT_Emotion_Detection)
+
+🛠️ Tech Stack:
+Python ,
+TensorFlow,
+OpenCV,
+NumPy,
+Tkinter,
+Pillow
+
+---
+
 ### 🐍 Snake Game
 A classic Snake game built in C# with a responsive UI, real-time movement, collision detection, and a score tracking system.
 
