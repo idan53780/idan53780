@@ -16,7 +16,7 @@
 ### 📸 Real-time face and emotion detection (classifier)
 A real-time emotion recognition application using webcam, video, or image input.
 
-[View Repository](https://github.com/idan53780/RT_Emotion_Detection)
+🔗[View Repository](https://github.com/idan53780/RT_Emotion_Detection)
 
 🛠️ Tech Stack:
 Python ,
@@ -25,6 +25,13 @@ OpenCV,
 NumPy,
 Tkinter,
 Pillow
+
+---
+### 👑crypto game 
+A decentralized NFT battle game built on Ethereum where players create unique warrior NFTs, battle other players, and trade warriors on an integrated marketplace.
+
+🔗 [View Repository](https://github.com/idan53780/crypto-warriors)  
+🛠️ Tech Stack: JS, HTML, Solidity (contracts)
 
 ---
 
