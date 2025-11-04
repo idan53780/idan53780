@@ -3,9 +3,10 @@
 
 <h1 align="center">Hello 👋🏼 I'm Idan</h1>
 <h3 align="center">Welcome to my GitHub profile</h3>
+ <p align="center">B.Sc. Computer Science Graduate passionate about software development,and love code in general.</p> 
 
 ## 📖 About Me
-- B.Sc. Computer Science Student at Holon Institute of Technology (HIT)
+- B.Sc. Computer Science Graduate at Holon Institute of Technology (HIT)
 - 🔍 Seeking my first professional experience to apply my skills and contribute to real-world projects
 - 🌎 Languages: Hebrew (Native), English (Fluent)
 <br>
