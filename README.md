@@ -27,7 +27,7 @@ Tkinter,
 Pillow
 
 ---
-### 👑crypto game 
+### 👑Crypto Game 
 A decentralized NFT battle game built on Ethereum where players create unique warrior NFTs, battle other players, and trade warriors on an integrated marketplace.
 
 🔗 [View Repository](https://github.com/idan53780/crypto-warriors)  
