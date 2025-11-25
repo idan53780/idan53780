@@ -14,18 +14,31 @@
 
 ## 🚀 Featured Projects
 
+### 🤖 Whatsapp-Bot
+ A Node.js-based WhatsApp bot built using whatsapp-web.js.
+ This bot helps automate WhatsApp group moderation 
+  
+🔗[View Repository](https://github.com/idan53780/Whatsapp-bot)
+
+🛠️ Tech Stack
+Node.js,
+WhatsApp Web.js,
+Puppeteer,
+Dotenv.
+
+---
 ### 📸 Real-time face and emotion detection (classifier)
 A real-time emotion recognition application using webcam, video, or image input.
 
 🔗[View Repository](https://github.com/idan53780/RT_Emotion_Detection)
 
 🛠️ Tech Stack:
-Python ,
+Python,
 TensorFlow,
 OpenCV,
 NumPy,
 Tkinter,
-Pillow
+Pillow.
 
 ---
 ### 👑Crypto Game 
