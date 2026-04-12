@@ -7,7 +7,7 @@
 
 ## 📖 About Me
 - B.Sc. Computer Science Graduate at Holon Institute of Technology (HIT)
-- 🔍 Seeking my first professional experience to apply my skills and contribute to real-world projects
+- 👨🏼‍💻 Software Developer at Gaya-Studios 
 - 🌎 Languages: Hebrew (Native), English (Fluent)
 <br>
 
