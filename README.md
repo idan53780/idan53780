@@ -14,6 +14,21 @@
 
 ## 🚀 Featured Projects
 
+---
+### ✈️ F-35A Mission Planning Tool
+A military-themed front-end application for configuring aircraft loadouts. It calculates real-time weight, balance, and center of gravity (CG) while interpolating flight performance data (V-speeds, takeoff distance) based on current gross weight.
+
+🔗 [View Repository](https://github.com/idan53780/F35-Demo-Mission-Planning-System)
+
+**Key Features:**
+* **Dynamic HUD UI:** Military-style interface with real-time status alerts (Normal/Caution/Limit).
+* **Physics Engine:** Calculates CG shifts across 10 weapon stations and internal fuel tanks.
+* **Zero-Dependency:** Built with pure Vanilla JS and XML data parsing for high performance and offline capability.
+
+🛠️ Tech Stack: JavaScript (ES6+), CSS3 (HUD-themed), XML, HTML5.
+
+---
+
 ### 🤖 Whatsapp-Bot
  A Node.js-based WhatsApp bot built using whatsapp-web.js.
  This bot helps automate WhatsApp group moderation 
